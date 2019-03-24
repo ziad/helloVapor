@@ -1,7 +1,7 @@
 # Vapor App on Ubuntu Server
 install swift on ubuntu server and run the app
 
-Thanks to [brian](https://www.brianadvent.com/) to create this [video](https://www.youtube.com/watch?v=B7y_8vMg5Hw). This is a summary on installung swift and vapor on ubuntu server.
+Thanks to [brian](https://www.brianadvent.com/) to create this [video](https://www.youtube.com/watch?v=B7y_8vMg5Hw). This is a summary on installing swift and vapor on ubuntu server.
 
 ## 1. login and create a new user on your ubuntu server
 <pre><code>ssh root@my.ip.addree.com
